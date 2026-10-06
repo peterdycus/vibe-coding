@@ -19,7 +19,7 @@ _Tick the scenario you built in Lab 1 (the same one you selected in the lab guid
 
 ## The build
 
-- **What I built:** Email Campaign Creator
+- **What I built:** Simplified Email Campaign Creator
 - **Tool used:** Lovable
 - **Shareable link:** https://audience-sender-pro.lovable.app
 
