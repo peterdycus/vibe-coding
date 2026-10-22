@@ -16,7 +16,7 @@ _Analytics snapshot: visitors 8; page views 15; views per visit 2.5; duration 7 
 
 | Change | Hypothesis | Result |
 |---|---|---|
-| _____ | _____ | _____ |
+| Fixed email confirmation functionality | Allows more reps to join | email confirmation is working |
 
 ## Peer feedback
 
@@ -24,14 +24,15 @@ opportunity to create clarity with the follow up data and explain the workflow i
 
 ## The recommendation
 
-**Decision:** ☐ Go  ☐ Iterate  ☐ Kill
+**Decision:** ☐ Go  ☑ Iterate  ☐ Kill
 
 _The evidence that justifies the call:_
 
-_____
+Email confirmation is working as expected
 
 ## Final showcase
 
-- **Demo link:** _____
-- **The one-sentence story:** _____
-- **Where it landed on the Confidence Line (M2 → now):** _____
+- **Demo link:** https://crm-optimizations.lovable.app
+- **The one-sentence story:** Faster follow up times
+- **Where it landed on the Confidence Line (M2 → now):** Medium
+
